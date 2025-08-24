@@ -92,3 +92,14 @@ This approach mitigates against the tendency of agents - even with tools like `M
   - Streamlining package configurations
   - Remote system optimization
 
+## MCP Pairing
+
+My go-tos for using AI CLIs for "admin":
+
+- **Cloudflare MCP**: Essential for managing Cloudflare services and tunnels
+- **Desktop Command**: Local system command execution and management
+- **MCP SSH**: Remote system access and command execution
+- **Docker MCP**: Container management and Docker environment operations
+
+These MCP tools complement the CLI agents by providing structured access to system resources, enabling more effective automation and management workflows.
+
